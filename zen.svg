@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="#2dd4bf" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Minimalist Enso / Circle -->
+  <path d="M 50, 20 A 30,30 0 0,1 50,80 A 30,30 0 0,1 25,35" opacity="0.9" />
+  
+  <!-- Balanced Stone / Dot -->
+  <circle cx="50" cy="50" r="4" fill="#2dd4bf" stroke="none" opacity="0.6" />
+</svg>
